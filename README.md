@@ -5,7 +5,7 @@ Thesis for Udacity machine learning engineer nanodegree
 ![Prediction](images/Enet_prediction.png)
 
 ## ENet model modified for high speed semantic segmentation
-189 FPS using an old NVIDIA GTX 1050Ti on 320x800 pixels images
+93.99% accuracy and 189 FPS using an old NVIDIA GTX 1050Ti on 320x800 pixels images
 
 ## Dataset
 [Dataset](https://www.kaggle.com/kumaresanmanickavelu/lyft-udacity-challenge/home)
