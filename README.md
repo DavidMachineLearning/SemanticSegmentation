@@ -22,6 +22,10 @@ Thesis for Udacity machine learning engineer nanodegree
   - scipy=1.2.0
   - scikit-learn=0.20.2
   - tensorflow-gpu=1.12.0
+  - jupyter=1.0.0
 
 ## Check my report here
 [Report](Report.pdf)
+
+## Training procedure and examples
+[Segmentation](RoadCars_segmentation.ipynb)
